@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <channel>
+    <title>9784480088161 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://iss.ndl.go.jp/api/opensearch?isbn=9784480088161</link>
+    <description>Search results for isbn=9784480088161 </description>
+    <language>ja</language>
+    <openSearch:totalResults>3</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage/>
+    <item>
+      <title>暗黙知の次元</title>
+      <link>https://iss.ndl.go.jp/books/R100000002-I000004345380-00</link>
+<description>
+<![CDATA[<p>筑摩書房,4480088164</p>
+<ul><li>タイトル： 暗黙知の次元</li>
+<li>タイトル（読み）： アンモクチ ノ ジゲン</li>
+<li>責任表示： マイケル・ポランニー 著,高橋勇夫 訳,</li>
+<li>シリーズ名： ちくま学芸文庫</li>
+<li>シリーズ名（読み）： チクマ ガクゲイ ブンコ</li>
+<li>NDC(9)： 115</li>
+</ul>]]>
+</description>
+      <author>マイケル・ポランニー 著,高橋勇夫 訳,Polanyi, Michael, 1891-1976,高橋, 勇夫, 1953-,</author>
+      <category>本</category>
+      <guid isPermaLink="true">https://iss.ndl.go.jp/books/R100000002-I000004345380-00</guid>
+      <pubDate>Thu, 18 Mar 2004 09:00:00 +0900</pubDate>
+      <dc:title>暗黙知の次元</dc:title>
+      <dcndl:titleTranscription>アンモクチ ノ ジゲン</dcndl:titleTranscription>
+      <dc:creator>Polanyi, Michael, 1891-1976</dc:creator>
+      <dc:creator>高橋, 勇夫, 1953-</dc:creator>
+      <dcndl:creatorTranscription>タカハシ, イサオ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>ちくま学芸文庫</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>チクマ ガクゲイ ブンコ</dcndl:seriesTitleTranscription>
+      <dc:publisher>筑摩書房</dc:publisher>
+      <dc:date>2003.12</dc:date>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2003</dcterms:issued>
+      <dcndl:price>900円</dcndl:price>
+      <dc:extent>194p ; 15cm</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">4480088164</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000004345380</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">20550230</dc:identifier>
+      <dc:subject>認識論</dc:subject>
+      <dc:subject>科学論</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">H31</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">115</dc:subject>
+      <dc:description>原タイトル: The tacit dimension</dc:description>
+      <dc:description>文献あり</dc:description>
+      <rdfs:seeAlso rdf:resource="http://id.ndl.go.jp/bib/000004345380"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1104396509/"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1160459410"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=10000001953125"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1101128997"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1106070979"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810523895"/>
+      <rdfs:seeAlso rdf:resource="https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1100435000"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1102349329"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000001675383"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1109474108"/>
+      <rdfs:seeAlso rdf:resource="https://www2.toshokan.city.shizuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1100322618"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1101595276"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.okinawa.jp/winj/opac/switch-detail-iccap.do?bibid=1100443871"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/opac/OPP1500?SELDATA=TOSHO&amp;SSNO=3-0203097401"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1009910488178/"/>
+      <rdfs:seeAlso rdf:resource="http://kensaku.lib.pref.tochigi.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100318003"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=1058125"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1006300091696"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1006300091696"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009913063080"/>
+    </item>
+    <item>
+      <title>暗黙知の次元</title>
+      <link>https://iss.ndl.go.jp/books/R100000074-I000581628-00</link>
+<description>
+<![CDATA[<p>筑摩書房,4480088164</p>
+<ul><li>タイトル： 暗黙知の次元</li>
+<li>タイトル（読み）： アンモクチ ノ ジゲン</li>
+<li>責任表示： マイケル・ポランニー著,</li>
+<li>シリーズ名： ちくま学芸文庫</li>
+<li>シリーズ名（読み）： チクマ ガクゲイ ブンコ</li>
+<li>NDC(9)： 116.5</li>
+</ul>]]>
+</description>
+      <author>マイケル・ポランニー著,Polanyi, Michael, 1891-1976,高橋, 勇夫(1953-),</author>
+      <category>本</category>
+      <guid isPermaLink="true">https://iss.ndl.go.jp/books/R100000074-I000581628-00</guid>
+      <dc:title>暗黙知の次元</dc:title>
+      <dcndl:titleTranscription>アンモクチ ノ ジゲン</dcndl:titleTranscription>
+      <dc:creator>Polanyi, Michael, 1891-1976</dc:creator>
+      <dc:creator>高橋, 勇夫(1953-)</dc:creator>
+      <dcndl:creatorTranscription>タカハシ, イサオ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>ちくま学芸文庫</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>チクマ ガクゲイ ブンコ</dcndl:seriesTitleTranscription>
+      <dc:publisher>筑摩書房</dc:publisher>
+      <dc:date>2003.12</dc:date>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2003-12</dcterms:issued>
+      <dcndl:price>900円+税</dcndl:price>
+      <dc:extent>194p ; 15cm</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">4480088164</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">JP20550230</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TRCMARCNO">03062683</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BA65024620</dc:identifier>
+      <dc:subject>認識論</dc:subject>
+      <dc:subject>科学論</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">H31</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">116.5</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">116.5</dc:subject>
+      <dc:description>関連文献: p170-173</dc:description>
+      <dc:description>邦文関連文献: p174-175</dc:description>
+      <dc:description>叢書番号はブックジャケットによる</dc:description>
+      <rdfs:seeAlso rdf:resource="https://library.affrc.go.jp/api/QQ20368082"/>
+    </item>
+    <item>
+      <title>暗黙知の次元</title>
+      <link>https://iss.ndl.go.jp/books/R100000096-I003426147-00</link>
+<description>
+<![CDATA[<p>筑摩書房,4480088164</p>
+<ul><li>タイトル： 暗黙知の次元</li>
+<li>タイトル（読み）： アンモクチ ノ ジゲン</li>
+<li>責任表示： マイケル・ポランニー著 ; 高橋勇夫訳,</li>
+<li>シリーズ名： ちくま学芸文庫, [ホ-10-1]</li>
+<li>NDC(9)： 116.5</li>
+</ul>]]>
+</description>
+      <author>マイケル・ポランニー著 ; 高橋勇夫訳,Polanyi, Michael,高橋, 勇夫,</author>
+      <category>本</category>
+      <guid isPermaLink="true">https://iss.ndl.go.jp/books/R100000096-I003426147-00</guid>
+      <dc:title>暗黙知の次元</dc:title>
+      <dcndl:titleTranscription>アンモクチ ノ ジゲン</dcndl:titleTranscription>
+      <dc:creator>Polanyi, Michael</dc:creator>
+      <dc:creator>高橋, 勇夫</dc:creator>
+      <dcndl:creatorTranscription>タカハシ, イサオ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>ちくま学芸文庫, [ホ-10-1]</dcndl:seriesTitle>
+      <dc:publisher>筑摩書房</dc:publisher>
+      <dc:date>2003.12</dc:date>
+      <dcterms:issued xsi:type="dcterms:W3CDTF">2003</dcterms:issued>
+      <dc:extent>194p</dc:extent>
+      <dc:extent>15cm</dc:extent>
+      <dcterms:isPartOf rdf:resource="http://ci.nii.ac.jp/ncid/BN07814606#entity"/>
+      <dc:identifier xsi:type="dcndl:ISBN">4480088164</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BA65024620</dc:identifier>
+      <dc:subject>科学哲学</dc:subject>
+      <dc:subject>認識論</dc:subject>
+      <dc:subject>科学論</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">H31</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">116.5</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">116.5</dc:subject>
+      <dc:description>関連文献: p170-173</dc:description>
+      <dc:description>邦文関連文献: p174-175</dc:description>
+      <dc:description>叢書番号はブックジャケットによる</dc:description>
+      <rdfs:seeAlso rdf:resource="http://ci.nii.ac.jp/ncid/BA65024620"/>
+    </item>
+  </channel>
+</rss>
