@@ -17,5 +17,6 @@
 - start
   - `npx expo start`
 
-- image
-  ![](image.jpg)
+# Image
+
+![](image.jpg)
