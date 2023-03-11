@@ -18,7 +18,7 @@
   - `npx expo start`
 
 - refs
-  - [このあたり抑えればいけそう](https://twitter.com/ddddddOpppppp/status/1614283063596560385?s=20&t=ao4gigL-7lpXcVDu4nOhcQ)
+  - [作業風景(このあたり抑えればいけそう)](https://twitter.com/ddddddOpppppp/status/1614283063596560385?s=20&t=ao4gigL-7lpXcVDu4nOhcQ)
   - バーコード無い本もあるので、それは入力フォーム設けるか、画像検索でいけるかどうか
 
 # Image
